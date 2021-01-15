@@ -1,8 +1,8 @@
 {
-  "full_name": "Johannes Köster",
-  "email": "johannes.koester@protonmail.com",
-  "username": "johanneskoester",
-  "project_name": "RNA-Seq",
-  "repo_name": "rna-seq",
-  "min_snakemake_version": "5.7.0"
+  "full_name": "Max Schubach",
+  "email": "max.schubach@bihealth.de",
+  "username": "visze",
+  "project_name": "New Project",
+  "repo_name": "new_project",
+  "min_snakemake_version": "5.31.1"
 }
