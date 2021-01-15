@@ -1,4 +1,4 @@
-This workflow is created by `{{cookiecutter.full_name}} <{{cookiecutter.email}}>`, {{cookiecutter.company}}, `{{cookiecutter.institute}} <{{cookiecutter.website}}>_`
+This workflow is created by `{{cookiecutter.full_name}} <{{cookiecutter.email}}>`_, {{cookiecutter.company}}, `{{cookiecutter.institute}} <{{cookiecutter.website}}>`_
 
 {{cookiecutter.description}}
 
