@@ -2,7 +2,11 @@
   "full_name": "Max Schubach",
   "email": "max.schubach@bihealth.de",
   "username": "visze",
+  "company": "Berlin Institute of Heath (BIH)",
+  "institute": "JRG Computational Genome Biology",
+  "website": "https://kircherlab.bihealth.org",
   "project_name": "New Project",
   "repo_name": "new_project",
+  "description": "",
   "min_snakemake_version": "5.31.1"
 }
