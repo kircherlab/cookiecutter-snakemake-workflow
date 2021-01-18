@@ -1,6 +1,8 @@
 # Snakemake workflow: {{cookiecutter.project_name}}
 
 [![Snakemake](https://img.shields.io/badge/snakemake-≥{{cookiecutter.min_snakemake_version}}-brightgreen.svg)](https://snakemake.bitbucket.io)
+![Tests](https://github.com/{{cookiecutter.username}}/{{cookiecutter.repo_name}}/workflows/Tests/badge.svg)
+
 [![Build Status](https://travis-ci.org/snakemake-workflows/{{cookiecutter.repo_name}}.svg?branch=master)](https://travis-ci.org/snakemake-workflows/{{cookiecutter.repo_name}})
 
 {{cookiecutter.description}}
