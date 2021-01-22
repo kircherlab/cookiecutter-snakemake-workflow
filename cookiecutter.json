@@ -8,5 +8,5 @@
   "project_name": "New Project",
   "repo_name": "new_project",
   "description": "",
-  "min_snakemake_version": "5.31.1"
+  "min_snakemake_version": "5.32.0"
 }
