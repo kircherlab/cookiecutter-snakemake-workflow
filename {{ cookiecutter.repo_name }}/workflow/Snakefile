@@ -7,8 +7,9 @@ report: "report/workflow.rst"
 # Allow users to fix the underlying OS via singularity.
 container: "docker://continuumio/miniconda3"
     
-from snakemake.utils import min_version
+##### check snakemake min version #####
 
+from snakemake.utils import min_version
 min_version('{{ cookiecutter.min_snakemake_version }}')
 
 
